@@ -18,14 +18,14 @@ time-series-forecasting/
 │
 ├── sales_forecasting/
 │   ├── sales_traditional_models.ipynb
-│   └── data/
+│   └── data
 │
 ├── temperature_forecasting/
 │   ├── temperature_deep_learning.ipynb
-│   └── data/
+│   └── data
 │
 ├── assets/
-│   └── images/
+│   └── images
 │
 └── README.md
 ```
@@ -51,7 +51,7 @@ time-series-forecasting/
 
 ### 📊 Performance Visualization
 
-![Traditional Models](assets/images/traditional_models_taylor_diagram.png)
+![Traditional Models](assets/traditional_models.png)
 
 ---
 
@@ -79,7 +79,7 @@ time-series-forecasting/
 
 ### 📊 Performance Visualization
 
-![Deep Learning Models](assets/images/deep_learning_taylor_diagram.png)
+![Deep Learning Models](assets/deep_learning.png)
 
 ---
 
